@@ -3,4 +3,4 @@ SemClinBr - a multi-institutional and multi-specialty semantically annotated cor
 
 ** Soon we will make available the corpus usage request form. **
 
-[![Processo SemClinBr](SemclinBr)](https://github.com/HAILab-PUCPR/SemClinBr/blob/master/images/processo-semclinbr.png?raw=true)
+<img src="./images/processo-semclinbr.png" alt="SemClinBr">
