@@ -1,0 +1,108 @@
+body, div{
+	margin:0; padding:0;
+}
+#boasvindas{
+	width: 100%;
+}
+#left{
+	display: inline-block;
+}
+#right{
+	display: inline-block;
+}
+#center{
+	display: inline-block;
+	width: 800px;
+}
+#text{
+	border: 2px dashed black;
+	margin: 6px;
+}
+.sentence{
+	margin: 5px;
+}
+.sentence:hover{
+	background-color: #ddd;
+}
+	.sentence.green-border{
+		border: 1px solid green;
+	}
+	.sentence.red-border{
+		border: 1px solid red;
+	}
+	.sentence.orange-border{
+		border: 1px solid orange;
+	}
+	.sentence.yellow-border{
+		border: 1px solid orange;
+	}
+	.sentence.blue-border{
+		border: 1px solid blue;
+	}
+	.sentence.black-border{
+		border: 1px solid grey;
+	}
+.sentencetext{
+	clear:both;
+	margin: 6px;
+}
+.token{
+	margin: 2px;
+	padding:2px;
+	display:inline-block;
+}
+.token:hover{
+	cursor: pointer;
+	background-color: #FFD700;
+}
+.tokenrelation{
+	margin: 2px;
+	padding:2px;
+	display:inline-block;
+}
+	.token.green-border{
+		border: 2px solid green;
+	}
+	.token.red-border{
+		border: 2px solid red;
+	}
+	.token.orange-border{
+		border: 2px solid orange;
+	}
+	.token.yellow-border{
+		border: 2px solid orange;
+	}
+	.token.blue-border{
+		border: 2px solid blue;
+	}
+	.token.bluegreen-border{
+		border: 2px solid SpringGreen;
+	} 
+	.token select{
+		border: 1px solid black;
+	}
+	.token.relationselected{
+		background-color: black;
+		color: white;
+	}
+.tokentext{
+	font-weight: bold;
+}
+#abbreviation-form{
+	margin:5px;
+}
+	#abbreviation-form label{
+		display:block;
+		padding:5px;
+		margin:5px;
+	}
+	#abbreviation-form #abbreviation-button{
+		float:right;
+	}
+.relationitem{
+	border: 1px solid black;
+}
+textarea {
+    width: 100%;
+    height: 200px;
+}

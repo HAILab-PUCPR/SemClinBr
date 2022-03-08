@@ -1,0 +1,15 @@
+h1{
+	font-size: 22px;
+	font-weight: bold;
+	margin:5px;
+}
+fieldset{
+	font-size: 16px;
+	margin: 20px;
+	padding: 4px;
+	border: 2px solid grey;
+}
+fieldset div{
+	margin: 4px;
+	padding: 4px;
+}
