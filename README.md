@@ -13,6 +13,8 @@ To use the **annotated corpus**, your research team must complete and sign the r
 
 The other resources can be downloaded directly from this repository, without a request.
 
+Original article: https://rdcu.be/cNgqV
+
 How to cite:
 ```
 @article{Oliveira2022,
