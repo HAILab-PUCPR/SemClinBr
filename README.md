@@ -13,13 +13,18 @@ To use the **annotated corpus**, your research team must complete and sign the r
 
 The other resources can be downloaded directly from this repository, without a request.
 
-How to cite(preprint):
+How to cite:
 ```
-@unknown{oliveria-semclinbr,
-author = {Oliveira, Lucas and Peters, Ana and Silva, Adalniza and Gebeluca, Caroline and Gumiel, Yohan and Cintho, Lilian and Carvalho, Deborah and Hasan, Sadid and Moro, Claudia},
-year = {2020},
-month = {01},
-pages = {},
-title = {SemClinBr -- a multi institutional and multi specialty semantically annotated corpus for Portuguese clinical NLP tasks}
+@article{Oliveira2022,
+  doi = {10.1186/s13326-022-00269-1},
+  url = {https://doi.org/10.1186/s13326-022-00269-1},
+  year = {2022},
+  month = may,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {13},
+  number = {1},
+  author = {Lucas Emanuel Silva e Oliveira and Ana Carolina Peters and Adalniza Moura Pucca da Silva and Caroline Pilatti Gebeluca and Yohan Bonescki Gumiel and Lilian Mie Mukai Cintho and Deborah Ribeiro Carvalho and Sadid Al Hasan and Claudia Maria Cabral Moro},
+  title = {{SemClinBr} - a multi-institutional and multi-specialty semantically annotated corpus for Portuguese clinical {NLP} tasks},
+  journal = {Journal of Biomedical Semantics}
 }
 ```
