@@ -13,7 +13,7 @@ To use the **annotated corpus**, your research team must complete and sign the r
 
 The other resources can be downloaded directly from this repository, without a request.
 
-Original article: https://rdcu.be/cNgqV
+Original article: SemClinBr - [https://doi.org/10.1186/s13326-022-00269-1]
 
 How to cite:
 ```
